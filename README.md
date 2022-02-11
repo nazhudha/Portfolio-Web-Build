@@ -1,4 +1,4 @@
-# Persoanl Portfolio Website
+# Personal Portfolio Website
 
 [See Live Demo](https://nazhudha.github.io/Portfolio-Website/)
 
