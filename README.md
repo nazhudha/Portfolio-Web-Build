@@ -2,7 +2,7 @@
 
 [See Live Demo](https://nazhudha.github.io/Portfolio-Web-Build/)
 
-A responsive 'Personal Portfolio Website', showcasing examples of exercises and projects worked on (whilst on the Bath Spa Coding Bootcamp Jan 2022 and beyond).
+A responsive 'Personal Portfolio Website', showcasing examples of exercises and projects worked on.
 
 ### Current Features include:
 - Nav bar
